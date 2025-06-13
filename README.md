@@ -1,4 +1,4 @@
-# Startup Financial Dashboard & Projections
+# Project Name: Startup Financial Dashboard & Projections
 
 This project contains financial projections and dashboards used to analyze and forecast startup business performance. It includes a Power BI dashboard and Excel sheet detailing key financial metrics, along with a PDF summary of the financial projections.
 
@@ -11,7 +11,7 @@ This project contains financial projections and dashboards used to analyze and f
 
 Here is a preview of the financial dashboard created in Power BI:
 
-![Dashboard Preview](dashboard-preview.png)  
+![Dashboard Preview](Dashboard.png)  
 
 ## Features
 
