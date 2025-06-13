@@ -11,7 +11,7 @@ This project contains financial projections and dashboards used to analyze and f
 
 Here is a preview of the financial dashboard created in Power BI:
 
-![Dashboard Preview](images/dashboard-preview.png)  <!-- Update the image path accordingly -->
+![Dashboard Preview](dashboard-preview.png)  
 
 ## Features
 
